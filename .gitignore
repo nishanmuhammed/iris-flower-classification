@@ -1,0 +1,14 @@
+# Python environments
+.venv/
+venv/
+iris-env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
